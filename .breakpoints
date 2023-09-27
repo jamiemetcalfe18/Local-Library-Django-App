@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "f933b92a-b6ea-47c8-8b2b-6131ffd67927",
+        "line": 10,
+        "version": 18,
+        "index": 279
+      }
+    ],
+    "catalog/templates/registration/password_reset_done.html": [
+      {
+        "id": "8521fc4f-a528-422a-9881-0f2204cc4c64",
+        "line": 6,
+        "version": 1,
+        "index": 203
+      }
+    ]
+  }
+}
