@@ -4,8 +4,8 @@
       {
         "id": "f933b92a-b6ea-47c8-8b2b-6131ffd67927",
         "line": 10,
-        "version": 18,
-        "index": 279
+        "version": 36,
+        "index": 286
       }
     ],
     "catalog/templates/registration/password_reset_done.html": [
